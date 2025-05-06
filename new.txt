@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is regarding the tax at the end of the module.
 
+=======
+This is regarding the tax at the end of the module.
+
+>>>>>>> 7d40ebc098c1e84f6eeb49bf8b0eb42017e9c995
